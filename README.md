@@ -1,7 +1,7 @@
 # My Data Science Projects
 
 This repository contains two parts:  
-1) My university graduation thesis  
+1) Master’s graduation thesis project (University of Europe for Applied Sciences).
 2) Yandex Practicum training projects
 
 ---
